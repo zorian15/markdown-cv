@@ -33,13 +33,29 @@ __Virginia Tech, Blacksburg__
 
 ## Research Experience
 
-`Seattle,WA`
-
 `June 2020-Present`
 __Fred Hutchison Cancer Research Center__
 
+- Predoctoral candidate
+- Developing computational tools to predict viral protein phenotypes from deep mutational scanning experiments with the goal to accurately predict fitness of unseen protein variants and predict viral evolutionary trajectories.
 
-Standing on the shoulders of giants
+`March 2020-June 2020`
+__University of Washington Department of Genome Sciences__
+
+- Lab rotation with [Brian Beliveau](https://www.beliveau.io)
+- Implemented a bioinformatics pipeline for the design of split-oligo probe pairs for fluorescence *in situ* hybridization (FISH) experiments to enable fast and affordable design of highly specific RNA FISH probes.
+
+`Jan. 2020-March 2020`
+__Fred Hutchison Cancer Research Center__
+
+- Lab rotation with [Erick Matsen](https://matsen.fhcrc.org)
+- See related entry above.
+
+`Sep. 2019-Dec 2019`
+__University of Washington Department of Genome Sciences__
+
+- Lab rotation with [Bill Noble](https://noble.gs.washington.edu)
+- Implemented a novel method for systematically finding potential functional inter-chromosomal contacts in Hi-C data to provide better understanding of genome organization.
 
 ### Specialized in
 
