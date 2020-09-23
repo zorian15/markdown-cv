@@ -12,26 +12,31 @@ Ph.D Student, Genome Sciences, Seattle, WA
 
 ## Education
 
-`Sep. 2019-Present`
+`Sep. 2019 - Present`
 __University of Washington, Seattle__
 
 - Ph.D student in Genome Sciences, advised by [Erick Matsen](https://matsen.fhcrc.org).
 - GPA: 3.8/4.0
 
-`2015 - 2019`
+`Aug. 2015-May 2019`
 __Virginia Tech, Blacksburg__
 
 - B.Sc Statistics
 - Minors: Mathematics and Computer Science
 - GPA: 3.7/4.0
 
-`Aug. 2015 - May 2019`
+`Aug. 2015-May 2019`
 __Virginia Tech, Blacksburg__
 
 - B.Sc Computational Modeling & Data Analytics
 - GPA: 3.6/4.0
 
-## Currently
+## Research Experience
+
+`Seattle,WA`
+`June 2020-Present`
+__Fred Hutchison Cancer Research Center__
+
 
 Standing on the shoulders of giants
 
