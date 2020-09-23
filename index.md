@@ -34,6 +34,7 @@ __Virginia Tech, Blacksburg__
 ## Research Experience
 
 `Seattle,WA`
+
 `June 2020-Present`
 __Fred Hutchison Cancer Research Center__
 
