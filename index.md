@@ -6,7 +6,7 @@ title: Zorian Thornton's CV
 Ph.D Student, Genome Sciences, Seattle, WA
 
 <div id="webaddress">
-<a href="zorian15@uw.edu">Contact me!</a>
+<a href="mailto:zorian15@uw.edu">Contact me!</a>
 </div>
 
 
