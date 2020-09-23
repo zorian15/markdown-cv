@@ -1,15 +1,35 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Zorian Thornton's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Zorian Thornton
+Ph.D Student, Genome Sciences, Seattle, WA
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="zorian15@uw.edu">Contact me!</a>
 </div>
 
+
+## Education
+
+`Sep. 2019-Present`
+__University of Washington, Seattle__
+
+- Ph.D student in Genome Sciences, advised by [Erick Matsen](https://matsen.fhcrc.org).
+- GPA: 3.8/4.0
+
+`Aug. 2015 - May 2019`
+__Virginia Tech, Blacksburg__
+
+- B.Sc Statistics
+- Minors: Mathematics and Computer Science
+- GPA: 3.7/4.0
+
+`Aug. 2015 - May 2019`
+__Virginia Tech, Blacksburg__
+
+- B.Sc Computational Modeling & Data Analytics
+- GPA: 3.6/4.0
 
 ## Currently
 
@@ -24,21 +44,6 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
@@ -58,7 +63,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +92,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
