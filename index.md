@@ -18,7 +18,7 @@ __University of Washington, Seattle__
 - Ph.D student in Genome Sciences, advised by [Erick Matsen](https://matsen.fhcrc.org).
 - GPA: 3.8/4.0
 
-`Aug. 2015 - May 2019`
+`2015 - 2019`
 __Virginia Tech, Blacksburg__
 
 - B.Sc Statistics
@@ -91,4 +91,4 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Sept. 2020 -->
