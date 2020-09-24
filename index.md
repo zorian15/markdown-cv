@@ -111,27 +111,33 @@ Recipient, *Eckert Statistics Scholar*, Virginia Tech
 ### Journals
 
 `2020`
-El Moustaid, F., **Thornton, Z.**, Slamani, H., Ryan, S. and Johnson, LR (2019). *Understanding
+El Moustaid, F., __Thornton, Z.__, Slamani, H., Ryan, S. and Johnson, LR (2020). *Understanding
 the effect of temperature on Bluetongue disease risk in livestock*. Pending Review
 
 `2018`
-Keller, A., Chavez, J.D., Eng, J.K., **Thornton, Z.** and Bruce, J.E. (2018). *Tools for 3D Interac-
+Keller, A., Chavez, J.D., Eng, J.K., __Thornton, Z.__ and Bruce, J.E. (2018). *Tools for 3D Interac-
 tome Visualization*. Journal of proteome research, 18(2), pp.753-758.
 
 
 
-## Occupation
+## Research Presentations
 
-`1600`
-__Royal Mint__, London
+`2019`
+*Predicting Disease Progression of Colorectal Cancer via Self-Organizing Maps*, RECOMB 2019, George Washington University, Washington DC, May 2019
 
-- Warden
-- Minted coins
+`2018`
+*Modeling Bluetongue Virus via Markov Chain Monte Carlo Methods*, Student Experiential Learning Conference, Virginia Tech, Blacksburg, VA, Apr. 2018
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2017`
+*Viewing Molecular Interaction Interfaces Through Directed Computational Methods*, Department of Genome Sciences Research Symposium, University of Washington, Seattle, WA, Aug. 2017
 
+## Work Experience
 
+`June 2019-Sept. 2019`
+__Virginia Tech Statistical Applications and Innovations Group__
+
+- Associate consultant
+  - Statistical consultant to Virginia Tech graduate students and faculty.
 
 <!-- ### Footer
 
