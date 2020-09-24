@@ -1,5 +1,6 @@
 ---
 layout: cv
+permalink: /markdown-cv/
 title: Zorian Thornton
 ---
 # Zorian Thornton
