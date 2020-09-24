@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Zorian Thornton's CV
+title: Zorian Thornton
 ---
 # Zorian Thornton
 Ph.D Student, Genome Sciences, Seattle, WA
