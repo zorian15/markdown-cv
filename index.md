@@ -105,22 +105,19 @@ Recipient, *Eckert Statistics Scholar*, Virginia Tech
 
 ## Publications
 
+<!-- Link to articles when I have two actual pubs... -->
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
+`2020`
+El Moustaid, F., **Thornton, Z.**, Slamani, H., Ryan, S. and Johnson, LR (2019). *Understanding
+the effect of temperature on Bluetongue disease risk in livestock*. Pending Review
 
-`1669`
-Lectiones opticæ.
+`2018`
+Keller, A., Chavez, J.D., Eng, J.K., **Thornton, Z.** and Bruce, J.E. (2018). *Tools for 3D Interac-
+tome Visualization*. Journal of proteome research, 18(2), pp.753-758.
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
