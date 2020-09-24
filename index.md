@@ -75,25 +75,31 @@ __University of Washington Department of Genome Sciences__
 - Lab rotation with [Jim Bruce](https://brucelab.gs.washington.edu)
 - Implemented [software](http://xlinkdb.gs.washington.edu/xlinkdb/) to estimate and visualize inter-surface regions of cross-linked proteins, enabling scientists to better characterize protein function, discover mutations, and discover protein-protein interactions to tackle molecular challenges such as cancer.
 
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Bayesian statistics, approximate inference, deep learning, adaptive immunology, viral evolution, phylogenetics,
 
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+Honorable Mention, *National Science Foundation Graduate Research Fellowship Program*, Alexandria, VA
 
-Associate, *French Academy of Science*, Paris, France
+`2019`
+Member, *Mu Sigma Rho, National Honor Society*, Virginia Tech
+
+`2018`
+Finalist, *College of Science Dean’s Roundtable Scholarship*, Virginia Tech
+
+Recipient, *Luther and Alice Hamlett Undergraduate Research Grant*, Virginia Tech Academy of Integrated Sciences
+
+`2017`
+Fellow, *Fralin Research Institute*, Virginia Tech
+
+`2016`
+Recipient, *Eckert Statistics Scholar*, Virginia Tech
 
 
 
