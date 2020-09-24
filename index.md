@@ -57,6 +57,25 @@ __University of Washington Department of Genome Sciences__
 - Lab rotation with [Bill Noble](https://noble.gs.washington.edu)
 - Implemented a novel method for systematically finding potential functional inter-chromosomal contacts in Hi-C data to provide better understanding of genome organization.
 
+`Aug. 2018-May 2019`
+__Virginia Tech Department of Statistics__
+
+- Undergraduate research with [Allison N. Tegge](https://www.stat.vt.edu/people/stat-faculty/tegge-allison.html)
+- Implemented Self-Organizing Maps and conducted survival analysis to identify genes and pathways associated with progression of colorectal cancer from patients included in The Cancer Genome Atlas Program.
+
+`Aug. 2017-May 2019`
+__Virginia Tech Department of Statistics__
+
+- Undergraduate research with [Leah R. Johnson](http://leah.johnson-gramacy.com/QED/research/)
+- Developed a new formula for the disease basic reproductive number, $R0$, to include temperature sensitive midge life history traits to predict potential regions for the spread of Bluetongue viral disease.
+
+`June 2017-Aug 2017`
+__University of Washington Department of Genome Sciences__
+
+- Lab rotation with [Jim Bruce](https://brucelab.gs.washington.edu)
+- Implemented [software](http://xlinkdb.gs.washington.edu/xlinkdb/) to estimate and visualize inter-surface regions of cross-linked proteins, enabling scientists to better characterize protein function, discover mutations, and discover protein-protein interactions to tackle molecular challenges such as cancer.
+
+
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
