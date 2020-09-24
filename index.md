@@ -155,15 +155,15 @@ __Virginia Tech Math Emporium__
 
 __Preferred Programming Languages__
 
-- `R`, `Python`, `C\C++`
+- R, Python, C++
 
 __Dev Tools & Environments__
 
-- `git`, Jupyter
+- git, Jupyter
 
 __HPC Tools__
 
-- `CUDA`, `OpenMP`, `MPI`
+- CUDA, OpenMP, MPI
   - I sparsely use any of these now due to [PyTorch](https://pytorch.org) and [TensorFlow](https://www.tensorflow.org) making life easier
 
 __Other languages I rarely use now__
