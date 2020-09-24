@@ -151,6 +151,32 @@ __Virginia Tech Math Emporium__
 - Instructional Assistant
   - Teaching assistant for introductory math courses including differential and integral calculus, graph theory, differential equations, and linear algebra.
 
+## Programming Languages, Tools, and Concepts
+
+__Preferred Programming Languages__
+
+- `R`, `Python`, `C\C++`
+
+__Dev Tools & Environments__
+
+- `git`, Jupyter
+
+__HPC Tools__
+
+- `CUDA`, `OpenMP`, `MPI`
+  - I sparsely use any of these now due to [PyTorch](https://pytorch.org) and [TensorFlow](https://www.tensorflow.org) making life easier
+
+__Other languages I rarely use now__
+
+- Java, Matlab, PHP, SQL, SAS
+
+## Proffesional Organizations
+
+- The American Association of Immunologists member since 2020
+- National Society of Blacks in Computing member since 2017
+- American Statistical Association member since 2016
+- National Society of Black Engineers member since 2016
+
 <!-- ### Footer
 
 Last updated: Sept. 2020 -->
