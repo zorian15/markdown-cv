@@ -136,8 +136,20 @@ tome Visualization*. Journal of proteome research, 18(2), pp.753-758.
 `June 2019-Sept. 2019`
 __Virginia Tech Statistical Applications and Innovations Group__
 
-- Associate consultant
+- Associate Consultant
   - Statistical consultant to Virginia Tech graduate students and faculty.
+
+`June 2018-August 2018`
+__Nielsen__
+
+- Data Science Intern
+  - Implemented statistical framework to identify possible errors in scanned receipt data and imple- mented pipeline to attempt to correct errors.
+
+`Jan. 2017-Aug. 2018`
+__Virginia Tech Math Emporium__
+
+- Instructional Assistant
+  - Teaching assistant for introductory math courses including differential and integral calculus, graph theory, differential equations, and linear algebra.
 
 <!-- ### Footer
 
