@@ -1,6 +1,5 @@
 ---
 layout: cv
-permalink: /CV/
 title: Zorian Thornton
 ---
 # Zorian Thornton
