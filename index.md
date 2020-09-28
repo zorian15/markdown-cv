@@ -7,7 +7,7 @@ Ph.D Student, Genome Sciences, Seattle, WA
 
 <div id="webaddress">
 <a href="https://zorian15.github.io">Home</a>
-|
+
 <a href="mailto:zorian15@uw.edu">Contact me!</a>
 </div>
 
