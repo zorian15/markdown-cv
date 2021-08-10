@@ -14,7 +14,12 @@ Ph.D Student, Genome Sciences, Seattle, WA
 
 ## Education
 
-`Sep. 2019 - Present`
+`July 2021 - Present`
+__University of Washington, Seattle__
+
+- Ph.D candidate in Genome Sciences, advised by [Erick Matsen](https://matsen.fhcrc.org).
+
+`Sep. 2019 - July 2021`
 __University of Washington, Seattle__
 
 - Ph.D student in Genome Sciences, advised by [Erick Matsen](https://matsen.fhcrc.org).
@@ -112,13 +117,13 @@ Recipient, *Eckert Statistics Scholar*, Virginia Tech
 
 ### Journals
 
-`2020`
-El Moustaid, F., __Thornton, Z.__, Slamani, H., Ryan, S. and Johnson, LR (2020). *Understanding
-the effect of temperature on Bluetongue disease risk in livestock*. Pending Review
+`2021`
+El Moustaid, F., __Thornton, Z.__, Slamani, H. et al. Predicting temperature-dependent transmission suitability of bluetongue virus in livestock. Parasites Vectors 14, 382 (2021). https://doi.org/10.1186/s13071-021-04826-y
 
 `2018`
-Keller, A., Chavez, J.D., Eng, J.K., __Thornton, Z.__ and Bruce, J.E. (2018). *Tools for 3D Interac-
-tome Visualization*. Journal of proteome research, 18(2), pp.753-758.
+Andrew Keller, Juan D. Chavez, Jimmy K. Eng, __Zorian Thornton__, and James E. Bruce
+Journal of Proteome Research 2, 753-758 (2019)
+https://doi.org/10.1021/acs.jproteome.8b00703
 
 
 
