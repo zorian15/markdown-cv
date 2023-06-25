@@ -117,6 +117,9 @@ Recipient, *Eckert Statistics Scholar*, Virginia Tech
 
 ### Journals
 
+`2022`
+Yu, T., __Thornton, Z.__, Hannon, W., DeWitt, W.S., Radford, C., Matsen IV, F.A. and Bloom, J.D. (2022). A biophyscial model of viral escape from polyclonal antibodies Virus Evolution, 8(2), (https://doi.org/10.1093/ve/veac110)
+
 `2021`
 El Moustaid, F., __Thornton, Z.__, Slamani, H. et al. Predicting temperature-dependent transmission suitability of bluetongue virus in livestock. Parasites Vectors 14, 382 (2021). https://doi.org/10.1186/s13071-021-04826-y
 
@@ -139,6 +142,11 @@ https://doi.org/10.1021/acs.jproteome.8b00703
 *Viewing Molecular Interaction Interfaces Through Directed Computational Methods*, Department of Genome Sciences Research Symposium, University of Washington, Seattle, WA, Aug. 2017
 
 ## Work Experience
+`June 2022-Sept. 2022`
+__Adaptive Biotechnologies__
+
+- Machine Learning Computational Biology Intern
+  - Conducted benchmarking of semi-supervised learning methods for predicting T-cell receptor specificity from high-throughput sequencing data.
 
 `June 2019-Sept. 2019`
 __Virginia Tech Statistical Applications and Innovations Group__
